@@ -1,4 +1,5 @@
 # web-form
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6810636a-edf6-4119-96ba-d99acbc5c5db/deploy-status)](https://app.netlify.com/sites/upbeat-mccarthy-dba1b1/deploys)
 
 ## Project setup
 ```
